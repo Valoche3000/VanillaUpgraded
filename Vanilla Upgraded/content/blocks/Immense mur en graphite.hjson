@@ -1,0 +1,10 @@
+name: Immense mur en graphite
+description: Un mur de graphite extrémement gros et résistant
+type: Wall
+health: 3510
+size: 3
+requirements: [
+   graphite/125
+]
+category: defense
+research: Gigantesque mur en graphite

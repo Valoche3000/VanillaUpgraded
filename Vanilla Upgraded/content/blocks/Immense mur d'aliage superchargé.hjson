@@ -1,0 +1,13 @@
+name: Immense mur d'aliage superchargé
+description: Un mur d'aliage superchagé plus gros mais plud résistant.
+type: SurgeWall
+lightningChance: 0.22
+lightningDamage: 21
+lightningLenght:20
+health: 8280
+size: 3
+requirements: [
+   surge-alloy/125
+]
+category: defense
+research: surge-wall-large

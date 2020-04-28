@@ -1,0 +1,16 @@
+type: flyingUnit
+name: Teoleus
+description:  Petit robot tirant de puissant éclair
+speed: 0.5
+flying: true
+health: 100
+engineOffset: 5.5
+range: 170
+weapon: {
+  name: Teseus-blaster
+  lenght: 1.5
+  reload: 10
+  alternate: true
+  bullet: lightning
+}
+  

@@ -1,0 +1,10 @@
+name: mur en graphite
+description: Le tout premier des murs en graphites ! Il es un peut plus résistant que celui en cuivre.
+type: Wall
+health: 390
+size: 1
+requirements: [
+   graphite/6
+]
+category: defense
+research: copper-wall-large

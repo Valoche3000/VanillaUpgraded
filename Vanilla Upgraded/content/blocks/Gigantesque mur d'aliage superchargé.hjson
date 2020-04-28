@@ -1,0 +1,13 @@
+name: Gigantesque mur d'aliage superchargé
+description: Un mur d'aliage superchagé plus résistant que jamais !
+type: SurgeWall
+lightningChance: 0.29
+lightningDamage: 24
+lightningLenght:22
+health: 14720
+size: 4
+requirements: [
+   surge-alloy/245
+]
+category: defense
+research: Immense mur d'aliage superchargé

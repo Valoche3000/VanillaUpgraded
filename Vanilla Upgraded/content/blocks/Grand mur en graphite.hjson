@@ -1,0 +1,10 @@
+name: Grand mur en graphite
+description: Un mur de graphite plus gros et plus résitant que le premier.
+type: Wall
+health: 1560
+size: 2
+requirements: [
+   graphite/24
+]
+category: defense
+research: mur en graphite
