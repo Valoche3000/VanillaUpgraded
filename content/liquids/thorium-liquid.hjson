@@ -1,0 +1,7 @@
+name: Thorium liquid
+description: Imaginer le thorium mais... liquide.
+temperature: 0
+viscosity: 0.9
+damage: 0.12
+effect: burning
+color: fa00ff

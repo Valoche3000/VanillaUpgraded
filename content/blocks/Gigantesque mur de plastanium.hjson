@@ -1,0 +1,11 @@
+name: Gigantesque mur de plastanium
+description: Un mur de plastanium plus résistant que jamais !
+type: Wall
+health: 12160
+size: 4
+insulated: true
+requirements: [
+  plastanium/245
+]
+category: defense
+research: Immense mur de plastanium

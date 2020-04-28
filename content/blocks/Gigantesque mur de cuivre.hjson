@@ -1,0 +1,10 @@
+name: Gigantesque mur de cuivre
+description: Un mur de cuivre plus résistant que jamais !
+type: Wall
+health: 5120
+size: 4
+requirements: [
+  copper/245
+]
+category: defense
+research: Immense mur de cuivre
