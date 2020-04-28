@@ -1,5 +1,5 @@
 # VanillaUpgraded
-Warning : this mod isn't translated yet, so current version is in french, but don't worry, bundles are coming
+Warning : this mod isn't translated yet, so current version is in french, but don't worry, bundles are comingq\n
 Vanilla Upgraded is a mod to improve your experience in game.
 Adds some new ores, units and mechs.
 For now only with json, but scripts are coming to make more original content.
