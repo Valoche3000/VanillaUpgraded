@@ -1,0 +1,16 @@
+name: Teseura
+description: Teseura est la version mechas de l'unité Teseus.
+speed: 0.6
+boostSpeed: 1.5
+buildPower: 3
+engineColor: "666495"
+flying: false
+health: 350
+weaponOffsetX: 4
+weapon: {
+  name: Teseus-blaster
+  length: 1.5
+  reload: 15
+  alternate: true
+  bullet: lightning
+}

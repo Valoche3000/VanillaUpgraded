@@ -1,0 +1,11 @@
+name: Gigantesque mur de tissu phasé
+description: Un mur de tissu phasé plus résistant que jamais !
+type: DeflectorWall
+maxDamageDeflect: 21
+health: 9600
+size: 4
+requirements: [
+  phase-fabric/245
+]
+category: defense
+research: Immense mur de tissu phasé

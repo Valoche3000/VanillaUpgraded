@@ -1,0 +1,10 @@
+name: Immense mur de cuivre
+description: Un mur de cuivre plus gros mais plus résistant.
+type: Wall
+health: 2880
+size: 3
+requirements: [
+  copper/125
+]
+category: defense
+research: copper-wall-large

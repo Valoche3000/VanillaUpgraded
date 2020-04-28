@@ -1,0 +1,23 @@
+name: Usine a Teoleus
+description: Creer de l'unité volante: Teoleus
+type: UnitFactory
+unitType: Teoleus
+size: 2
+produceTime: 900
+consumes: {
+  power: 0.8
+  items: {
+    items: [
+      surge-alloy/5
+      titanium/25
+    ]
+  }
+}
+category: units
+research: teseus-factory
+requirements: [
+  graphite/140
+  thorium/80
+  silicon/80
+  titanium/40
+]

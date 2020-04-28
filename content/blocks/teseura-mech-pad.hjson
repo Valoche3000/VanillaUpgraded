@@ -1,0 +1,16 @@
+name: Teseura Mech Pad
+description: Transformez-vous en Teseura
+type: MechPad
+mech: Teseura
+size: 2
+consumes: {
+  power: 0.7
+}
+category: upgrade
+research: delta-mech-pad
+requirements: [
+  thorium/175
+  titanium/150
+  silicon/200
+  graphite/100
+]
