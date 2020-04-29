@@ -26,10 +26,12 @@ requirements: [
     block: mixeur-a-thorium
   }
 ]
-ressources: [
+resources: [
   copper
   lead
   titanium
   coal
   sand
+  scrap
+  lithium
 ]
