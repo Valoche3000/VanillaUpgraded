@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: "Dilueur"
+description: "Transforme le liquide cryogénique et le thorium en thorium liquid"
+liquidCapacity: 50
+outputLiquid: {
+  liquid: thorium-liquid
+  amount: 12
+}
+size: 2
+hasPower: true
+hasLiquids: true
+craftTime: 10
+updateEffect: smeltsmoke
+consumes: {
+  power: 0.9
+  item: thorium
+  liquid: cryofluid/1
+}
+requirements: [
+  thorium/20
+  graphite/35
+  titanium/45
+  silicon/60
+  plastanium/10
+]
+category: crafting
+research: cryofluidmixer
+idleSound: respawning
+idleSoundVolume: 0.5
